@@ -1,0 +1,23 @@
+{
+  "name": "simplenote",
+  "version": "1.0.0",
+  "description": "simplenote",
+  "main": "index.js",
+  "author": "usagikeri <https://github.com/usagikeri>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.simplenote.com/",
+    "serviceName": "simplenote",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
