@@ -1,1 +1,2 @@
 # myFranzPlugin
+## SimpleNotePlugin
