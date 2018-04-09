@@ -1,0 +1,24 @@
+{
+  "id": "gooogledrive",
+  "name": "googledrive",
+  "version": "1.0.0",
+  "description": "googledrive",
+  "main": "index.js",
+  "author": "usagikeri <https://github.com/usagikeri>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://drive.google.com/drive/",
+    "serviceName": "GoogleDrive",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
