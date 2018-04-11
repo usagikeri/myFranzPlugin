@@ -1,8 +1,8 @@
 {
   "id": "gooogledrive",
-  "name": "googledrive",
+  "name": "GoogleDrive",
   "version": "1.0.0",
-  "description": "googledrive",
+  "description": "GoogleDrive",
   "main": "index.js",
   "author": "usagikeri <https://github.com/usagikeri>",
   "license": "MIT",
