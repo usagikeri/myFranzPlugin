@@ -3,6 +3,7 @@
 ## Service list
 * SimpleNotePlugin
 * GoogleDrive
+* Feedly
 
 
 ## Usage
