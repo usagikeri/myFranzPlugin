@@ -4,6 +4,7 @@
 * SimpleNotePlugin
 * GoogleDrive
 * Feedly
+* lifebear
 
 
 ## Usage

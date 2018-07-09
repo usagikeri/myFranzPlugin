@@ -1,0 +1,24 @@
+{
+  "id": "lifebear",
+  "name": "lifebear",
+  "version": "1.0.0",
+  "description": "lifebear",
+  "main": "index.js",
+  "author": "usagikeri <https://github.com/usagikeri>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "http://lifebear.com/",
+    "serviceName": "lifebear",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
