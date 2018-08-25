@@ -1,0 +1,25 @@
+{
+  "id": "MoneyForward",
+  "name": "MoneyForward",
+  "version": "1.0.0",
+  "description": "MoneyForward",
+  "main": "index.js",
+  "author": "usagikeri <https://github.com/usagikeri>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://moneyforward.com/",
+    "serviceName": "MoneyForward",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
+
