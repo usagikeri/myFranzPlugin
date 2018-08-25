@@ -1,0 +1,24 @@
+{
+  "id": "dropbox",
+  "name": "Dropbox",
+  "version": "1.0.0",
+  "description": "Dropbox",
+  "main": "index.js",
+  "author": "usagikeri <https://github.com/usagikeri>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.dropbox.com/",
+    "serviceName": "Dropbox",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
